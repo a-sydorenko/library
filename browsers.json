@@ -1,0 +1,562 @@
+{
+  "360 secure browser": {
+    "id": 1,
+    "shortList": false,
+    "versions": []
+  },
+  "amazon kindle": {
+    "id": 2,
+    "shortList": true,
+    "versions": []
+  },
+  "aol explorer": {
+    "id": 3,
+    "shortList": false,
+    "versions": []
+  },
+  "arora": {
+    "id": 4,
+    "shortList": false,
+    "versions": []
+  },
+  "at&t pogo": {
+    "id": 5,
+    "shortList": false,
+    "versions": []
+  },
+  "avant browser": {
+    "id": 6,
+    "shortList": false,
+    "versions": []
+  },
+  "baidu browser": {
+    "id": 7,
+    "shortList": true,
+    "versions": []
+  },
+  "basilisk": {
+    "id": 8,
+    "shortList": false,
+    "versions": []
+  },
+  "bento browser": {
+    "id": 9,
+    "shortList": false,
+    "versions": []
+  },
+  "beonex communicator": {
+    "id": 10,
+    "shortList": false,
+    "versions": []
+  },
+  "bolt browser": {
+    "id": 11,
+    "shortList": false,
+    "versions": []
+  },
+  "brave": {
+    "id": 12,
+    "shortList": false,
+    "versions": []
+  },
+  "camino": {
+    "id": 13,
+    "shortList": false,
+    "versions": []
+  },
+  "chromium": {
+    "id": 14,
+    "shortList": true,
+    "versions": []
+  },
+  "classilla": {
+    "id": 15,
+    "shortList": false,
+    "versions": []
+  },
+  "coc coc": {
+    "id": 16,
+    "shortList": false,
+    "versions": []
+  },
+  "cometbird": {
+    "id": 17,
+    "shortList": false,
+    "versions": []
+  },
+  "comodo dragon": {
+    "id": 18,
+    "shortList": false,
+    "versions": []
+  },
+  "comodo icedragon": {
+    "id": 19,
+    "shortList": false,
+    "versions": []
+  },
+  "conkeror": {
+    "id": 20,
+    "shortList": false,
+    "versions": []
+  },
+  "cyberfox": {
+    "id": 21,
+    "shortList": false,
+    "versions": []
+  },
+  "deepnet explorer": {
+    "id": 22,
+    "shortList": false,
+    "versions": []
+  },
+  "dolphin browser": {
+    "id": 23,
+    "shortList": true,
+    "versions": []
+  },
+  "dooble": {
+    "id": 24,
+    "shortList": false,
+    "versions": []
+  },
+  "ecosia": {
+    "id": 25,
+    "shortList": false,
+    "versions": []
+  },
+  "epic": {
+    "id": 26,
+    "shortList": false,
+    "versions": []
+  },
+  "epiphany": {
+    "id": 27,
+    "shortList": false,
+    "versions": []
+  },
+  "firefox": {
+    "id": 28,
+    "shortList": true,
+    "versions": []
+  },
+  "firefox mobile": {
+    "id": 29,
+    "shortList": true,
+    "versions": []
+  },
+  "flock": {
+    "id": 30,
+    "shortList": false,
+    "versions": []
+  },
+  "galeon": {
+    "id": 31,
+    "shortList": false,
+    "versions": []
+  },
+  "gnuzilla": {
+    "id": 32,
+    "shortList": false,
+    "versions": []
+  },
+  "goanna-based": {
+    "id": 33,
+    "shortList": false,
+    "versions": []
+  },
+  "google chrome": {
+    "id": 34,
+    "shortList": true,
+    "versions": []
+  },
+  "greenbrowser": {
+    "id": 35,
+    "shortList": false,
+    "versions": []
+  },
+  "hotjava": {
+    "id": 36,
+    "shortList": false,
+    "versions": []
+  },
+  "icab": {
+    "id": 37,
+    "shortList": false,
+    "versions": []
+  },
+  "iceape": {
+    "id": 38,
+    "shortList": false,
+    "versions": []
+  },
+  "icecat": {
+    "id": 39,
+    "shortList": false,
+    "versions": []
+  },
+  "iceweasel": {
+    "id": 40,
+    "shortList": false,
+    "versions": []
+  },
+  "internet channel": {
+    "id": 41,
+    "shortList": false,
+    "versions": []
+  },
+  "internet explorer": {
+    "id": 42,
+    "shortList": false,
+    "versions": []
+  },
+  "iris browser": {
+    "id": 43,
+    "shortList": false,
+    "versions": []
+  },
+  "k-meleon": {
+    "id": 44,
+    "shortList": false,
+    "versions": []
+  },
+  "k-ninja": {
+    "id": 45,
+    "shortList": false,
+    "versions": []
+  },
+  "konqueror": {
+    "id": 46,
+    "shortList": false,
+    "versions": []
+  },
+  "konqueror embedded": {
+    "id": 47,
+    "shortList": false,
+    "versions": []
+  },
+  "lunascape": {
+    "id": 48,
+    "shortList": false,
+    "versions": []
+  },
+  "maxthon": {
+    "id": 49,
+    "shortList": false,
+    "versions": []
+  },
+  "mediabrowser": {
+    "id": 50,
+    "shortList": false,
+    "versions": []
+  },
+  "menubox": {
+    "id": 51,
+    "shortList": false,
+    "versions": []
+  },
+  "microb": {
+    "id": 52,
+    "shortList": false,
+    "versions": []
+  },
+  "microsoft edge": {
+    "id": 53,
+    "shortList": true,
+    "versions": []
+  },
+  "midori": {
+    "id": 54,
+    "shortList": false,
+    "versions": []
+  },
+  "minimo": {
+    "id": 55,
+    "shortList": false,
+    "versions": []
+  },
+  "mozilla application suite": {
+    "id": 56,
+    "shortList": true,
+    "versions": []
+  },
+  "mozilla firefox": {
+    "id": 57,
+    "shortList": true,
+    "versions": []
+  },
+  "msn explorer": {
+    "id": 58,
+    "shortList": false,
+    "versions": []
+  },
+  "myie2": {
+    "id": 59,
+    "shortList": true,
+    "versions": []
+  },
+  "neoplanet": {
+    "id": 60,
+    "shortList": false,
+    "versions": []
+  },
+  "netcaptor": {
+    "id": 61,
+    "shortList": false,
+    "versions": []
+  },
+  "netscape browser": {
+    "id": 62,
+    "shortList": false,
+    "versions": []
+  },
+  "nintendo": {
+    "id": 63,
+    "shortList": false,
+    "versions": []
+  },
+  "omniweb": {
+    "id": 64,
+    "shortList": false,
+    "versions": []
+  },
+  "opera": {
+    "id": 67,
+    "shortList": true,
+    "versions": []
+  },
+  "opera mini": {
+    "id": 66,
+    "shortList": true,
+    "versions": []
+  },
+  "otter browser": {
+    "id": 68,
+    "shortList": false,
+    "versions": []
+  },
+  "owb": {
+    "id": 69,
+    "shortList": false,
+    "versions": []
+  },
+  "pale moon": {
+    "id": 70,
+    "shortList": false,
+    "versions": []
+  },
+  "phantomjs": {
+    "id": 71,
+    "shortList": false,
+    "versions": []
+  },
+  "ps4": {
+    "id": 72,
+    "shortList": false,
+    "versions": []
+  },
+  "qq browser": {
+    "id": 73,
+    "shortList": false,
+    "versions": []
+  },
+  "qtweb": {
+    "id": 74,
+    "shortList": false,
+    "versions": []
+  },
+  "qupzilla": {
+    "id": 75,
+    "shortList": false,
+    "versions": []
+  },
+  "qutebrowser": {
+    "id": 77,
+    "shortList": false,
+    "versions": []
+  },
+  "realplayer": {
+    "id": 78,
+    "shortList": false,
+    "versions": []
+  },
+  "rekonq": {
+    "id": 79,
+    "shortList": false,
+    "versions": []
+  },
+  "roccat browser": {
+    "id": 80,
+    "shortList": false,
+    "versions": []
+  },
+  "rockmelt": {
+    "id": 81,
+    "shortList": false,
+    "versions": []
+  },
+  "s60": {
+    "id": 82,
+    "shortList": false,
+    "versions": []
+  },
+  "safari": {
+    "id": 83,
+    "shortList": true,
+    "versions": []
+  },
+  "seamonkey": {
+    "id": 84,
+    "shortList": false,
+    "versions": []
+  },
+  "shiira": {
+    "id": 85,
+    "shortList": false,
+    "versions": []
+  },
+  "skyfire": {
+    "id": 86,
+    "shortList": false,
+    "versions": []
+  },
+  "sleipnir": {
+    "id": 87,
+    "shortList": false,
+    "versions": []
+  },
+  "slimboat": {
+    "id": 88,
+    "shortList": false,
+    "versions": []
+  },
+  "slimbrowser": {
+    "id": 89,
+    "shortList": false,
+    "versions": []
+  },
+  "srware iron": {
+    "id": 90,
+    "shortList": false,
+    "versions": []
+  },
+  "steam": {
+    "id": 91,
+    "shortList": false,
+    "versions": []
+  },
+  "steel": {
+    "id": 92,
+    "shortList": false,
+    "versions": []
+  },
+  "surf": {
+    "id": 93,
+    "shortList": false,
+    "versions": []
+  },
+  "swiftfox": {
+    "id": 94,
+    "shortList": false,
+    "versions": []
+  },
+  "swiftweasel": {
+    "id": 95,
+    "shortList": false,
+    "versions": []
+  },
+  "teashark": {
+    "id": 96,
+    "shortList": false,
+    "versions": []
+  },
+  "tencent traveler": {
+    "id": 97,
+    "shortList": false,
+    "versions": []
+  },
+  "tenfourfox": {
+    "id": 98,
+    "shortList": false,
+    "versions": []
+  },
+  "thunderhawk": {
+    "id": 99,
+    "shortList": false,
+    "versions": []
+  },
+  "timberwolf": {
+    "id": 100,
+    "shortList": false,
+    "versions": []
+  },
+  "tomeraider": {
+    "id": 101,
+    "shortList": false,
+    "versions": []
+  },
+  "tor browser": {
+    "id": 102,
+    "shortList": false,
+    "versions": []
+  },
+  "torch": {
+    "id": 103,
+    "shortList": false,
+    "versions": []
+  },
+  "ultrabrowser": {
+    "id": 104,
+    "shortList": false,
+    "versions": []
+  },
+  "uzbl": {
+    "id": 105,
+    "shortList": false,
+    "versions": []
+  },
+  "vivaldi": {
+    "id": 106,
+    "shortList": false,
+    "versions": []
+  },
+  "waterfox": {
+    "id": 107,
+    "shortList": false,
+    "versions": []
+  },
+  "webbie": {
+    "id": 108,
+    "shortList": true,
+    "versions": []
+  },
+  "webos": {
+    "id": 109,
+    "shortList": false,
+    "versions": []
+  },
+  "webpositive": {
+    "id": 110,
+    "shortList": false,
+    "versions": []
+  },
+  "xb browser": {
+    "id": 111,
+    "shortList": false,
+    "versions": []
+  },
+  "xombrero": {
+    "id": 112,
+    "shortList": false,
+    "versions": []
+  },
+  "yahoo": {
+    "id": 113,
+    "shortList": false,
+    "versions": []
+  },
+  "yandex browser": {
+    "id": 114,
+    "shortList": true,
+    "versions": []
+  }
+}

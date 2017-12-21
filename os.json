@@ -1,0 +1,148 @@
+{
+  "android": {
+    "id": 1,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "blackberry": {
+    "id": 2,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      10
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "ios": {
+    "id": 3,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "mac os": {
+    "id": 4,
+    "shortList": true,
+    "isMajor": false,
+    "versions": [
+      10
+    ],
+    "stringVersions": [],
+    "subVersions": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "palm os": {
+    "id": 5,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "symbian": {
+    "id": 7,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "windows": {
+    "id": 8,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      10,
+      95,
+      98,
+      2000
+    ],
+    "stringVersions": [
+      "azure",
+      "ce",
+      "vista",
+      "server",
+      "xp"
+    ],
+    "subVersions": []
+  },
+  "windows mobile": {
+    "id": 9,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      2000,
+      2002,
+      2003,
+      5,
+      6
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "xbox 360": {
+    "id": 10,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [],
+    "stringVersions": [],
+    "subVersions": []
+  }
+}
