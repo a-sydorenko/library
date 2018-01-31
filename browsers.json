@@ -274,6 +274,11 @@
     "shortList": false,
     "versions": []
   },
+  "mobile safari": {
+    "id": 56,
+    "shortList": true,
+    "versions": []
+  },
   "msn explorer": {
     "id": 57,
     "shortList": false,
