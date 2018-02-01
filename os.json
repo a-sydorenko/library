@@ -46,8 +46,16 @@
     "stringVersions": [],
     "subVersions": []
   },
-  "mac os": {
+  "linux": {
     "id": 4,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "mac os": {
+    "id": 5,
     "shortList": true,
     "isMajor": false,
     "versions": [
@@ -71,8 +79,16 @@
       13
     ]
   },
+  "openbsd": {
+    "id": 6,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [],
+    "stringVersions": [],
+    "subVersions": []
+  },
   "palm os": {
-    "id": 5,
+    "id": 7,
     "shortList": true,
     "isMajor": true,
     "versions": [
@@ -86,8 +102,8 @@
     "stringVersions": [],
     "subVersions": []
   },
-  "symbian": {
-    "id": 7,
+  "solaris": {
+    "id": 8,
     "shortList": true,
     "isMajor": true,
     "versions": [
@@ -99,8 +115,39 @@
     "stringVersions": [],
     "subVersions": []
   },
+  "symbian": {
+    "id": 9,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "ubuntu": {
+    "id": 10,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "stringVersions": [],
+    "subVersions": []
+  },
   "windows": {
-    "id": 8,
+    "id": 11,
     "shortList": true,
     "isMajor": true,
     "versions": [
@@ -123,8 +170,8 @@
     ],
     "subVersions": []
   },
-  "windows mobile": {
-    "id": 9,
+  "windows phone": {
+    "id": 12,
     "shortList": true,
     "isMajor": true,
     "versions": [
@@ -138,7 +185,7 @@
     "subVersions": []
   },
   "xbox 360": {
-    "id": 10,
+    "id": 13,
     "shortList": true,
     "isMajor": true,
     "versions": [],

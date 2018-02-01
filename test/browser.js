@@ -2,7 +2,7 @@
 
 const uaParser = require('ua-parser-js')
 const { expect } = require('chai')
-const { browsers } = require('./data')
+const { checkUniqueId, browsers } = require('./data')
 const BrowsersLib = require('../browsers.json')
 
 describe('browser tests', () => {
@@ -35,6 +35,15 @@ describe('browser tests', () => {
 
       it(`must have the same name (${name}) into library`, () => {
         expect(BrowsersLib[name]).to.be.an('object')
+      })
+    }
+  })
+
+  describe('no repeat id', () => {
+    for (let name in BrowsersLib) {
+
+      it(`browser (${name}) has unique id`, () => {
+        expect(checkUniqueId(BrowsersLib, name)).to.equal(true)
       })
     }
   })
