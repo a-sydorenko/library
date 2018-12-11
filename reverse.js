@@ -3,16 +3,19 @@
 const Fs = require('fs')
 const browsers = require('./browsers.json')
 const countries = require('./countries.json')
+const languages = require('./languages.json')
 const os = require('./os.json')
 
 const reverse = {
   browsers: {},
   countries: {},
+  languages: {},
   os: {}
 }
 
 fillBO(browsers, reverse, 'browsers')
 fillBO(os, reverse, 'os')
+fillBO(languages, reverse, 'languages')
 
 fillC(countries, reverse)
 
