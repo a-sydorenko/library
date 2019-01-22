@@ -45,7 +45,12 @@
     "43": "mobile safari",
     "44": "vivaldi",
     "45": "yandex",
-    "46": "fennec"
+    "46": "fennec",
+    "47": "chrome webview",
+    "48": "android browser",
+    "49": "facebook",
+    "50": "silk",
+    "51": "tizen"
   },
   "countries": {
     "1": "abw",
@@ -495,6 +500,7 @@
     "10": "ubuntu",
     "11": "windows",
     "12": "windows phone",
-    "13": "xbox 360"
+    "13": "xbox 360",
+    "14": "chromium os"
   }
 }

@@ -589,5 +589,25 @@
     "id": 47,
     "shortList": true,
     "versions": []
+  },
+  "android browser": {
+    "id": 48,
+    "shortList": true,
+    "versions": []
+  },
+  "facebook": {
+    "id": 49,
+    "shortList": true,
+    "versions": []
+  },
+  "silk": {
+    "id": 50,
+    "shortList": true,
+    "versions": []
+  },
+  "tizen": {
+    "id": 51,
+    "shortList": true,
+    "versions": []
   }
 }

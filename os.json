@@ -9,7 +9,8 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ],
     "stringVersions": [],
     "subVersions": []
@@ -41,7 +42,8 @@
       7,
       9,
       10,
-      11
+      11,
+      12
     ],
     "stringVersions": [],
     "subVersions": []
@@ -76,7 +78,8 @@
       10,
       11,
       12,
-      13
+      13,
+      14
     ]
   },
   "openbsd": {
@@ -186,6 +189,14 @@
   },
   "xbox 360": {
     "id": 13,
+    "shortList": true,
+    "isMajor": true,
+    "versions": [],
+    "stringVersions": [],
+    "subVersions": []
+  },
+  "chromium os": {
+    "id": 14,
     "shortList": true,
     "isMajor": true,
     "versions": [],
