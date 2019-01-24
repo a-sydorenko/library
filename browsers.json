@@ -609,5 +609,25 @@
     "id": 51,
     "shortList": true,
     "versions": []
+  },
+  "samsung browser": {
+    "id": 52,
+    "shortList": true,
+    "versions": []
+  },
+  "puffin": {
+    "id": 53,
+    "shortList": true,
+    "versions": []
+  },
+  "chrome headless": {
+    "id": 54,
+    "shortList": false,
+    "versions": []
+  },
+  "gsa": {
+    "id": 55,
+    "shortList": true,
+    "versions": []
   }
 }
